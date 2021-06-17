@@ -38,11 +38,17 @@
   .right {
     width: 100%;
   }
+  div {
+	    padding: 5%;
+  }
 }
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
   .menu, .main, .right {
     width: 100%;
+  }
+  div {
+	    padding: 5%;
   }
 }
     a:link {color:navy}
