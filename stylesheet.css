@@ -13,7 +13,7 @@
 .main {
   float: left;
   width: 60%;
-  padding: 50px 100px 100px 100px;
+  padding: 0 20px;
   overflow: hidden;
 }
 .right {
